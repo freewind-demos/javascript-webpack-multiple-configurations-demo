@@ -1,13 +1,7 @@
-Webpack Config File Demo
-========================
-
-Put all settings in `webpack.config.js`
+Webpack Config Multiple Configurations Demo
+============================================
 
 ```
 npm install
 npm run demo
 ```
-
-Then open `index.html` in your browser.
-
-![demo](./images/demo.jpg)
