@@ -1,9 +1,9 @@
 {
-    "scripts": {
-        "start": "webpack && node dist/bundle1.js && node dist/bundle2.js"
-    },
-    "devDependencies": {
-        "webpack": "4.29.6",
-        "webpack-cli": "3.3.0"
-    }
+  "scripts": {
+    "start": "webpack && node dist/bundle1.js && node dist/bundle2.js"
+  },
+  "devDependencies": {
+    "webpack": "4.29.6",
+    "webpack-cli": "3.3.0"
+  }
 }
